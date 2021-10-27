@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)](https://github.com/anikajb92/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{anikajb92}/count.svg)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Here are some ideas to get you started:
 
