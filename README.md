@@ -3,13 +3,6 @@
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿.
 
-### Fun Facts About Me: 
-- 🐾 My dogs, Pepper and Penny, have about 20 different nicknames including Pepperoni, Peppercini, Zetucky, and Little
-- 🐣 Easter is my favorite holiday, mostly because I egg-specially like hard-boiled 🥚s
-- 🏡 I bought my first house when I was 23
-- 🧶 In colder months, I like to knit scarves for my friends
-- 🎶 I prefer Apple Music to Spotify (I know. It's a hot take)
-
 ## Lets 🌮 'bout code
    
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)
