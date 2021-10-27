@@ -2,6 +2,7 @@
 
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿.
+<hr/>
 
 ## Lets 🌮 'bout code
    
@@ -18,7 +19,7 @@ Thanks for popping in 🍿.
 
 ## Find me on:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Pinterest](https://img.shields.io/badge/<anikajb92>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![TikTok](https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![YouTube](https://img.shields.io/badge/<AnikaBernstein>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
+<hr/>
 Check out some of my projects below. For now, pasta 🍝 la vista! 👩🏼‍💻
 
 <!-- Here are some ideas to get you started:
