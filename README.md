@@ -7,7 +7,7 @@ Thanks for popping in 🍿.
 
 ## Lets 🌮 'bout code
    
-![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&count_private=true&title_color=FF9085&text_color=FB6FBB&icon_color=F99A4D&hide=issues,contribs)![Anika's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&title_color=FF9085&text_color=FB6FBB&icon_color=F99A4D)
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&count_private=true&title_color=FF9085&text_color=FB6FBB&icon_color=F99A4D&hide=issues,contribs)![Anika's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&title_color=FF9085&text_color=FB6FBB&count_private=true&langs_count=6)
 
 ## Technical Skills: 
 
