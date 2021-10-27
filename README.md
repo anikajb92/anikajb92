@@ -2,16 +2,12 @@
 
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿.
+
 <hr/>
 
 ## Lets 🌮 'bout code
    
-<a href="https://github.com/Anikajb92/Anikajb92">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)" />
- </a>
- <a href="https://github.com/Anikajb92/Anikajb92">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)](https://github.com/anikajb92/github-readme-stats" />
- </a>
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)![Anika's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)
 
 ## Technical Skills: 
 
