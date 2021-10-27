@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)](https://github.com/anikajb92/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/{anikajb92}/count.svg)
 
 <!-- Here are some ideas to get you started:
 
