@@ -1,4 +1,6 @@
-### Hi y'all 👋 My name is Anika! Welcome to my GitHub ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Hi y'all 👋 My name is Anika! 
+
+### Welcome to my ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)
 
