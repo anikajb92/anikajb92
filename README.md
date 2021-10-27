@@ -1,8 +1,17 @@
-# Anika Bernstein 🌼
+# Hello-peño! 🌶 I'm Anika Bernstein
 
-## Fun Facts About Me: 
-   I prefer ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) over ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-   I prefer VSCode ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) but often find inspiration from CodePen ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
+Thanks for popping in 🍿.
+
+### Fun Facts About Me: 
+- 🐾 My dogs, Pepper and Penny, have about 20 different nicknames including Pepperoni, Peppercini, Zetucky, and Little
+- 🐣 Easter is my favorite holiday, mostly because I egg-specially like hard-boiled 🥚s
+- 🏡 I bought my first house when I was 23
+- 🧶 In colder months, I like to knit scarves for my friends
+- 🎶 I prefer Apple Music to Spotify (I know. It's a hot take)
+
+## Lets 🌮 'bout code
+   
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)](https://github.com/anikajb92/github-readme-stats)
@@ -21,6 +30,9 @@
 
 ## Find me on:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Pinterest](https://img.shields.io/badge/<anikajb92>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![TikTok](https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![YouTube](https://img.shields.io/badge/<Anika Bernstein>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+Check out some of my projects below. For now, pasta 🍝 la vista! 👩🏼‍💻
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I prefer VSCode ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) but often find inspiration from CodePen ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
