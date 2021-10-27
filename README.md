@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical))
+![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact)](https://github.com/anikajb92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&theme=radical)](https://github.com/anikajb92/github-readme-stats)
 
 
 Here are some ideas to get you started:
