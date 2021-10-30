@@ -17,7 +17,6 @@ Thanks for popping in 🍿.
 
 
 - 🔭 I prefer VSCode ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) but often find inspiration from CodePen ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-- <!-- Other fun facts to add
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,4 +31,5 @@ Thanks for popping in 🍿.
 <hr/>
 
 Check out some of my repos! For now, pasta 🍝 la vista! 👩🏼‍💻
+<!-- Other fun facts to add
 -->
