@@ -1,6 +1,6 @@
 # Hello-peño! 🌶 I'm Anika Bernstein 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Followers&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Repositories&theme=dracula)![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Commit&theme=dracula)
 
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿.
