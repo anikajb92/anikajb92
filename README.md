@@ -1,7 +1,5 @@
 # Hello-peño! 🌶 I'm Anika Bernstein 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Repositories&theme=dracula)![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Commit&theme=dracula)
-
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿.
 
@@ -9,6 +7,8 @@ Thanks for popping in 🍿.
 
 ## Lets 🌮 'bout code
    
+[![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Repositories,Commit&theme=dracula)]
+
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&count_private=true&title_color=FF9085&text_color=FB6FBB&icon_color=F99A4D&hide=issues,contribs)![Anika's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&title_color=FF9085&text_color=FB6FBB&count_private=true&langs_count=6)
 
 ## Technical Skills: 
