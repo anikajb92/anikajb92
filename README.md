@@ -1,4 +1,4 @@
-# Hello-peño! 🌶 I'm Anika Bernstein https://github-profile-trophy.vercel.app/?anikajb92=ryo-ma&theme=dracula
+# Hello-peño! 🌶 I'm Anika Bernstein https://github-profile-trophy.vercel.app/?username=anikajb92&theme=dracula
 
 
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
