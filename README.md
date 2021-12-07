@@ -1,7 +1,10 @@
 # Hello-peño! 🌶 I'm Anika Bernstein 
 
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
-Thanks for popping in 🍿.
+Thanks for popping in 🍿. 
+
+Let's connect on LinkedIn: https://www.linkedin.com/in/anika-bernstein/
+I'm available by Email at: anikabernsteindev@gmail.com
 
 <hr/>
 
