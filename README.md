@@ -3,7 +3,7 @@
 I'm an Environmental Scientist turned Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿. 
 
-💬 Connect with me on <a href="https://www.linkedin.com/in/anika-bernstein>LinkedIn</a>       
+💬 Connect with me on <a href="https://www.linkedin.com/in/anika-bernstein">LinkedIn</a>       
 
 📫 Reach me at anikabernsteindev@gmail.com
 
