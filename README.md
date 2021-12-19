@@ -7,6 +7,8 @@ Thanks for popping in 🍿.
 
 📫 Reach me at anikabernsteindev@gmail.com
 
+👩🏼‍💻 View my <a href="www.anikabernstein.com">portfolio</a>
+
 <hr/>
 
 ## Lets 🌮 'bout code
