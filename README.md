@@ -1,6 +1,6 @@
-# My name is Anika Bernstein 
+# Welcome
 
-I'm a Full-Stack Software Engineer who loves a good food pun. 
+My name is Anika Bernstein. I'm a Full-Stack Software Engineer who loves a good food pun. 
 Thanks for popping in 🍿. 
 
 💬 Connect with me on <a href="https://www.linkedin.com/in/anika-bernstein">LinkedIn</a>       
@@ -10,8 +10,6 @@ Thanks for popping in 🍿.
 <hr/>
 
 ## Lets 🌮 'bout code
-   
-![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Repositories,Commit,Followers,PullRequest&theme=darkhub&no-bg=true&margin-w=5)
 
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikajb92&show_icons=true&count_private=true&title_color=FF9085&text_color=FB6FBB&icon_color=F99A4D&hide=issues,contribs)![Anika's Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anikajb92&layout=compact&title_color=FF9085&text_color=FB6FBB&count_private=true&langs_count=6)
 
@@ -22,6 +20,8 @@ Thanks for popping in 🍿.
 <!-- 
 
 👩🏼‍💻 Check out my <a href="https://www.anikabernstein.com/">portfolio</a>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anikajb92&title=Repositories,Commit,Followers,PullRequest&theme=darkhub&no-bg=true&margin-w=5) 
 
 ## I'm Currently Learning: 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
